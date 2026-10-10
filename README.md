@@ -73,15 +73,6 @@
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-### 🛰️ AI, geospatial & 3D
-
-<p>
-  <img alt="QGIS" src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white">
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
-  <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
-</p>
-
 ---
 
 ## 🚀 What I build
