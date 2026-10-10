@@ -1,16 +1,152 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sainclair99/sainclair99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:02569B,50:7B2FF7,100:E87D0D&text=Sainclair%20Fonkou&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Flutter%20%C2%B7%20Laravel%20%C2%B7%20Vue%203%20%C2%B7%20AI%20%26%20Remote%20Sensing%20%C2%B7%20Blender&descAlignY=60&descSize=17" alt="header" width="100%"/>
 
-Here are some ideas to get you started:
+<a href="https://github.com/sainclair99">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=79C0FF&center=true&vCenter=true&width=700&lines=Building+mobile+experiences+with+Flutter;Crafting+web+apps+with+Laravel+%26+Vue+3;Removing+clouds+from+satellite+images+with+AI;Modeling+3D+worlds+in+Blender" alt="Typing SVG"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-sainclair99-181717?style=for-the-badge&logo=github)](https://github.com/sainclair99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alain-sainclair-73687828a/)
+[![X](https://img.shields.io/badge/X-@fonkousainclair-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/fonkousainclair)
+![Profile views](https://komarev.com/ghpvc/?username=sainclair99&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/neofetch.svg" alt="neofetch — sainclair99" width="100%"/>
+</div>
+
+<br/>
+
+## 👨‍💻 About me
+
+> **Flutter developer** with a Master 2 in Applied Computer Science, based in **Douala, Cameroon**.
+> I build mobile and web apps, and research **deep-learning methods to remove clouds from satellite imagery**.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 Currently
+- 📱 Building with **Flutter** (BLoC / Cubit)
+- 🌐 Web apps with **Laravel** & **Vue 3**
+- 🛰️ Master 2 research on cloud removal
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Exploring
+- 🧊 3D modeling with **Blender**
+- 🎮 Real-time worlds with **Unreal Engine**
+- 🧠 Satellite image processing & AI
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech stack
+
+### 📱 Mobile
+<p>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img alt="BLoC" src="https://img.shields.io/badge/BLoC%20%2F%20Cubit-4B32C3?style=for-the-badge">
+  <img alt="Riverpod" src="https://img.shields.io/badge/Riverpod-167DAB?style=for-the-badge">
+  <img alt="Dio" src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge">
+</p>
+
+### 🌐 Web
+<p>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="Vue 3" src="https://img.shields.io/badge/Vue.js%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+### 🐍 Languages & tools
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+</p>
+
+### 🛰️ AI, geospatial & 3D
+<p>
+  <img alt="QGIS" src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white">
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
+  <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
+</p>
+
+---
+
+## 🚀 What I build
+
+| | Project | Description |
+|---|---|---|
+| 📱 | **Flutter applications** | Maintainable mobile UIs, BLoC/Cubit state management, API integration, local persistence. |
+| 🎟️ | **Event Pass** | Event management, organizer workflows, team management and QR-code ticketing. |
+| ✅ | **Tasks Memo** | Task management, filters, local storage and scheduled notifications. |
+| 🎵 | **Cameroonian music lyrics** | [Kamer_Lyrics](https://github.com/sainclair99/Kamer_Lyrics) and [africa_lyrics](https://github.com/sainclair99/africa_lyrics). |
+| 🌐 | **Web applications** | Full-stack apps with Laravel (API & back-office) and Vue 3 front-ends. |
+| 🧊 | **3D modeling** | Assets and scenes created in Blender. |
+
+---
+
+## 🛰️ Research lab
+
+<details open>
+<summary><b>Deep-learning cloud removal for optical satellite imagery</b></summary>
+<br/>
+
+- 🛰️ **Data**: Sentinel-2 optical imagery and Sentinel-1 radar
+- ☁️ **Preprocessing**: MAJA and S1Tiling
+- 🧠 **Inference** with pretrained cloud-removal models (no retraining when the experiment is inference-only)
+- 📊 **Evaluation**: PSNR · SSIM · SAM · MAE · RMSE
+- 🗺️ **Workflow**: reproducible pipelines with Python, QGIS and Docker
+
+</details>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sainclair99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainclair99&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=sainclair99&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Let's connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alain%20Sainclair-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alain-sainclair-73687828a/)
+[![X](https://img.shields.io/badge/X-@fonkousainclair-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/fonkousainclair)
+
+<br/>
+
+*Code. Learn. Experiment. Build useful things.* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:E87D0D,50:7B2FF7,100:02569B&section=footer" width="100%" alt="footer"/>
+
+</div>
