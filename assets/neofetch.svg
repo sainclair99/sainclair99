@@ -29,7 +29,7 @@
 <text x="380" y="78" font-size="13" fill="#7ee787" font-weight="bold">sainclair@github</text>
 <line x1="512.8" x2="966" y1="74" y2="74" stroke="#30363d" stroke-dasharray="3 3"/>
 <text x="380" y="102" font-size="13" fill="#ffa657" font-weight="bold">OS:</text>
-<text x="966" y="102" font-size="13" fill="#79c0ff" text-anchor="end">Linux</text>
+<text x="966" y="102" font-size="13" fill="#79c0ff" text-anchor="end"> Windows 11, Android 15, Linux</text>
 <text x="380" y="122" font-size="13" fill="#ffa657" font-weight="bold">Role:</text>
 <text x="966" y="122" font-size="13" fill="#79c0ff" text-anchor="end">Flutter Developer</text>
 <text x="380" y="142" font-size="13" fill="#ffa657" font-weight="bold">Education:</text>
