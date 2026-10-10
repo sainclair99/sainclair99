@@ -47,7 +47,7 @@
 </tr>
 </table>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🧰 Tech stack
 
@@ -73,8 +73,6 @@
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
----
-
 ## 🚀 What I build
 
 |     | Project                      | Description                                                                                                                    |
@@ -86,7 +84,7 @@
 | 🌐  | **Web applications**         | Full-stack apps with Laravel (API & back-office) and Vue 3 front-ends.                                                         |
 | 🧊  | **3D modeling**              | Assets and scenes created in Blender.                                                                                          |
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🛰️ Research lab
 
@@ -102,7 +100,7 @@
 
 </details>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 📊 GitHub stats
 
@@ -115,7 +113,7 @@
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 📫 Let's connect
 
