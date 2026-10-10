@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:02569B,50:7B2FF7,100:E87D0D&text=Sainclair%20Fonkou&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Flutter%20%C2%B7%20Laravel%20%C2%B7%20Vue%203%20%C2%B7%20AI%20%26%20Remote%20Sensing%20%C2%B7%20Blender&descAlignY=60&descSize=17" alt="header" width="100%"/>
-
-<a href="https://github.com/sainclair99">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=79C0FF&center=true&vCenter=true&width=700&lines=Building+mobile+experiences+with+Flutter;Crafting+web+apps+with+Laravel+%26+Vue+3;Removing+clouds+from+satellite+images+with+AI;Modeling+3D+worlds+in+Blender" alt="Typing SVG"/>
-</a>
+<img src="assets/banner.svg" alt="Sainclair Fonkou — Flutter · Laravel · Vue 3 · AI & Remote Sensing · Blender" width="100%"/> <a href="https://github.com/sainclair99"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=79C0FF&center=true&vCenter=true&width=700&lines=Building+mobile+experiences+with+Flutter;Crafting+web+apps+with+Laravel+%26+Vue+3;Removing+clouds+from+satellite+images+with+AI;Modeling+3D+worlds+in+Blender" alt="Typing SVG"/> </a>
 
 <br/>
 
@@ -33,6 +29,7 @@
 <td width="50%" valign="top">
 
 ### 🔭 Currently
+
 - 📱 Building with **Flutter** (BLoC / Cubit)
 - 🌐 Web apps with **Laravel** & **Vue 3**
 - 🛰️ Master 2 research on cloud removal
@@ -41,6 +38,7 @@
 <td width="50%" valign="top">
 
 ### 🌱 Exploring
+
 - 🧊 3D modeling with **Blender**
 - 🎮 Real-time worlds with **Unreal Engine**
 - 🧠 Satellite image processing & AI
@@ -54,6 +52,7 @@
 ## 🧰 Tech stack
 
 ### 📱 Mobile
+
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
@@ -64,6 +63,7 @@
 </p>
 
 ### 🌐 Web
+
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -74,6 +74,7 @@
 </p>
 
 ### 🐍 Languages & tools
+
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -85,6 +86,7 @@
 </p>
 
 ### 🛰️ AI, geospatial & 3D
+
 <p>
   <img alt="QGIS" src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white">
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
@@ -96,14 +98,14 @@
 
 ## 🚀 What I build
 
-| | Project | Description |
-|---|---|---|
-| 📱 | **Flutter applications** | Maintainable mobile UIs, BLoC/Cubit state management, API integration, local persistence. |
-| 🎟️ | **Event Pass** | Event management, organizer workflows, team management and QR-code ticketing. |
-| ✅ | **Tasks Memo** | Task management, filters, local storage and scheduled notifications. |
-| 🎵 | **Cameroonian music lyrics** | [Kamer_Lyrics](https://github.com/sainclair99/Kamer_Lyrics) and [africa_lyrics](https://github.com/sainclair99/africa_lyrics). |
-| 🌐 | **Web applications** | Full-stack apps with Laravel (API & back-office) and Vue 3 front-ends. |
-| 🧊 | **3D modeling** | Assets and scenes created in Blender. |
+|     | Project                      | Description                                                                                                                    |
+| --- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 📱  | **Flutter applications**     | Maintainable mobile UIs, BLoC/Cubit state management, API integration, local persistence.                                      |
+| 🎟️  | **Event Pass**               | Event management, organizer workflows, team management and QR-code ticketing.                                                  |
+| ✅  | **Tasks Memo**               | Task management, filters, local storage and scheduled notifications.                                                           |
+| 🎵  | **Cameroonian music lyrics** | [Kamer_Lyrics](https://github.com/sainclair99/Kamer_Lyrics) and [africa_lyrics](https://github.com/sainclair99/africa_lyrics). |
+| 🌐  | **Web applications**         | Full-stack apps with Laravel (API & back-office) and Vue 3 front-ends.                                                         |
+| 🧊  | **3D modeling**              | Assets and scenes created in Blender.                                                                                          |
 
 ---
 
@@ -145,7 +147,7 @@
 
 <br/>
 
-*Code. Learn. Experiment. Build useful things.* 🚀
+_Code. Learn. Experiment. Build useful things._ 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:E87D0D,50:7B2FF7,100:02569B&section=footer" width="100%" alt="footer"/>
 
