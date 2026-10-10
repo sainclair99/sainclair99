@@ -124,8 +124,6 @@
 
 <br/>
 
-_Code. Learn. Experiment. Build useful things._ 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:E87D0D,50:7B2FF7,100:02569B&section=footer" width="100%" alt="footer"/>
+<img src="assets/footer.svg" alt="Code. Learn. Experiment. Build." width="100%"/>
 
 </div>
