@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <img src="assets/neofetch.svg" alt="neofetch — sainclair99" width="100%"/>
+  <img src="assets/neofetch.svg" alt="neofetch - sainclair99" width="100%"/>
 </div>
 
 <br/>
